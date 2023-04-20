@@ -1,4 +1,4 @@
-# 42-minitalk
+# minitalk
 
 ## About
 
