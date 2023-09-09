@@ -1,4 +1,5 @@
 # minitalk
+![image](https://github.com/faruktinaz/minitalk/assets/114104599/a180355e-1ba6-451e-b5e1-6d2ec04de901)
 
 ## About
 
