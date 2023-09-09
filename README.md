@@ -1,5 +1,5 @@
 # minitalk
-![image](https://github.com/faruktinaz/minitalk/assets/114104599/a180355e-1ba6-451e-b5e1-6d2ec04de901)
+
 
 ## About
 
@@ -21,3 +21,6 @@ kodlamaktır.**
 - Client, UNIX sinyallerini kullanarak sunucuya bir mesaj gönderir.
 - Server, SIGUSR1 ve SIGUSR2 sinyallerini alarak gelen mesaji doğru bir şekilde yazdırmalı ve client’e mesajin iletildiğine dair geri bildirim göndermelidir.
 - Makefile, server ve clienti kolayca derlemek için kullanılır.
+  
+---
+![image](https://github.com/faruktinaz/minitalk/assets/114104599/a180355e-1ba6-451e-b5e1-6d2ec04de901)
